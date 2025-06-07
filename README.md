@@ -1,4 +1,5 @@
 📘 Student Habits vs Academic Performance: A Simulated Study
+
 This project explores the relationship between students' daily habits and their academic performance using machine learning techniques. The dataset contains simulated yet realistic data of 1,000 students, including lifestyle habits such as study hours, sleep, social media use, diet quality, mental health, and more—mapped against their final exam scores.
 
 🧠 Problem Statement
